@@ -20,3 +20,5 @@ CORS_ORIGINS = [
     "http://127.0.0.1:3001"
     "https://sih-site-update.vercel.app"
 ]
+
+CORS_ORIGIN_REGEX = r"https://.*\.vercel\.app$"
