@@ -1,0 +1,12 @@
+{
+  "session_id": "34dda7a8-702b-4efb-9984-36a2108a4340",
+  "source_uploaded": true,
+  "reference_uploaded": true,
+  "pipeline_executed": false,
+  "source_sensor": "OHRC",
+  "reference_sensor": "TMC2",
+  "source_gsd": 0.25,
+  "reference_gsd": 5.0,
+  "source_path": "C:\\Users\\ayank\\Downloads\\friendly-greetings-bot-main\\SIH-UPDATED_SITE\\data\\sessions\\34dda7a8-702b-4efb-9984-36a2108a4340\\source_sample.png",
+  "reference_path": "C:\\Users\\ayank\\Downloads\\friendly-greetings-bot-main\\SIH-UPDATED_SITE\\data\\sessions\\34dda7a8-702b-4efb-9984-36a2108a4340\\reference_sample.png"
+}

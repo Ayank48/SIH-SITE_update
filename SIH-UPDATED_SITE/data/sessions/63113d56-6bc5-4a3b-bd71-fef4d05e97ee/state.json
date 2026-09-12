@@ -1,0 +1,12 @@
+{
+  "session_id": "63113d56-6bc5-4a3b-bd71-fef4d05e97ee",
+  "source_uploaded": true,
+  "reference_uploaded": true,
+  "pipeline_executed": false,
+  "source_sensor": "OHRC",
+  "reference_sensor": "TMC2",
+  "source_gsd": 0.25,
+  "reference_gsd": 5.0,
+  "source_path": "C:\\Users\\ayank\\Downloads\\friendly-greetings-bot-main\\friendly-greetings-bot-main\\data\\sessions\\63113d56-6bc5-4a3b-bd71-fef4d05e97ee\\source_sample.png",
+  "reference_path": "C:\\Users\\ayank\\Downloads\\friendly-greetings-bot-main\\friendly-greetings-bot-main\\data\\sessions\\63113d56-6bc5-4a3b-bd71-fef4d05e97ee\\reference_sample.png"
+}

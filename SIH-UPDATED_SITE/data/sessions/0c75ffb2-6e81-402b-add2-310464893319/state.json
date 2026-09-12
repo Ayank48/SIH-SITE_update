@@ -1,0 +1,12 @@
+{
+  "session_id": "0c75ffb2-6e81-402b-add2-310464893319",
+  "source_uploaded": true,
+  "reference_uploaded": true,
+  "pipeline_executed": false,
+  "source_sensor": "OHRC",
+  "reference_sensor": "TMC2",
+  "source_gsd": 0.25,
+  "reference_gsd": 5.0,
+  "source_path": "C:\\Users\\ayank\\.gemini\\antigravity\\scratch\\zeroday_lunar_cv\\data\\sessions\\0c75ffb2-6e81-402b-add2-310464893319\\source_sample.png",
+  "reference_path": "C:\\Users\\ayank\\.gemini\\antigravity\\scratch\\zeroday_lunar_cv\\data\\sessions\\0c75ffb2-6e81-402b-add2-310464893319\\reference_sample.png"
+}

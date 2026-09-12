@@ -1,0 +1,16 @@
+{
+  "session_id": "d11034a1-52ee-4af7-912e-9e1413b75e3a",
+  "source_uploaded": true,
+  "reference_uploaded": true,
+  "pipeline_executed": true,
+  "source_sensor": "OHRC",
+  "reference_sensor": "TMC2",
+  "source_gsd": 0.25,
+  "reference_gsd": 5.0,
+  "source_path": "C:\\Users\\ayank\\.gemini\\antigravity\\scratch\\zeroday_lunar_cv\\data\\sessions\\d11034a1-52ee-4af7-912e-9e1413b75e3a\\source_sample.png",
+  "reference_path": "C:\\Users\\ayank\\.gemini\\antigravity\\scratch\\zeroday_lunar_cv\\data\\sessions\\d11034a1-52ee-4af7-912e-9e1413b75e3a\\reference_sample.png",
+  "model_type": "homography",
+  "inlier_count": 35,
+  "rmse_px": 1.2773873805999756,
+  "dna_hash": "DNA-0F30-F827-C8D8-151E"
+}

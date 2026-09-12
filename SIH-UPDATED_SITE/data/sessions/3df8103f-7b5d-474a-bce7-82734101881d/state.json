@@ -1,0 +1,16 @@
+{
+  "session_id": "3df8103f-7b5d-474a-bce7-82734101881d",
+  "source_uploaded": true,
+  "reference_uploaded": true,
+  "pipeline_executed": true,
+  "source_sensor": "OHRC",
+  "reference_sensor": "TMC2",
+  "source_gsd": 0.25,
+  "reference_gsd": 5.0,
+  "source_path": "C:\\Users\\ayank\\Downloads\\friendly-greetings-bot-main\\friendly-greetings-bot-main\\data\\sessions\\3df8103f-7b5d-474a-bce7-82734101881d\\source_sample.png",
+  "reference_path": "C:\\Users\\ayank\\Downloads\\friendly-greetings-bot-main\\friendly-greetings-bot-main\\data\\sessions\\3df8103f-7b5d-474a-bce7-82734101881d\\reference_sample.png",
+  "model_type": "homography",
+  "inlier_count": 33,
+  "rmse_px": 1.25320303440094,
+  "dna_hash": "DNA-661B-5F78-125B-9E7C"
+}

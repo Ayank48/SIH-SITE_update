@@ -1,0 +1,10 @@
+{
+  "session_id": "c59a2495-ce62-4529-8f61-7a05c30244c2",
+  "source_uploaded": false,
+  "reference_uploaded": false,
+  "pipeline_executed": false,
+  "source_sensor": "OHRC",
+  "reference_sensor": "TMC2",
+  "source_gsd": 0.25,
+  "reference_gsd": 5.0
+}

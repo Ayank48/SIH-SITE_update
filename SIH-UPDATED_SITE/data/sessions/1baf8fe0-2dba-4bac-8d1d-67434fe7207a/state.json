@@ -1,0 +1,27 @@
+{
+  "session_id": "1baf8fe0-2dba-4bac-8d1d-67434fe7207a",
+  "source_uploaded": true,
+  "reference_uploaded": true,
+  "pipeline_executed": true,
+  "source_sensor": "OHRC",
+  "reference_sensor": "TMC2",
+  "source_gsd": 0.25,
+  "reference_gsd": 5.0,
+  "source_path": "C:\\Users\\ayank\\Downloads\\friendly-greetings-bot-main\\friendly-greetings-bot-main\\data\\sessions\\1baf8fe0-2dba-4bac-8d1d-67434fe7207a\\source_sample.png",
+  "reference_path": "C:\\Users\\ayank\\Downloads\\friendly-greetings-bot-main\\friendly-greetings-bot-main\\data\\sessions\\1baf8fe0-2dba-4bac-8d1d-67434fe7207a\\reference_sample.png",
+  "model_type": "homography",
+  "inlier_count": 35,
+  "rmse_px": 1.2773873805999756,
+  "dna_hash": "DNA-0F30-F827-C8D8-151E",
+  "blind_audit_reveal": {
+    "blind_estimated_scale": 1.0,
+    "blind_estimated_rotation_deg": 0.03,
+    "blind_confidence": 0.5715,
+    "true_sensor_source": "OHRC",
+    "true_sensor_reference": "TMC2",
+    "true_scale_ratio": 0.05,
+    "scale_error_percentage": 1900.0,
+    "blind_accuracy_grade": "C (HIGH_DISPARITY_REQUIRES_GUIDANCE)",
+    "audit_notes": "Blind test evaluated without sensor metadata. Ground truth resolved: OHRC (GSD=0.25m) -> TMC2 (GSD=5.0m). Observed scale error: 1900.00%."
+  }
+}
